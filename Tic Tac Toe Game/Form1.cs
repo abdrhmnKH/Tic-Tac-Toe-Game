@@ -203,22 +203,32 @@ namespace Tic_Tac_Toe_Game
             label6.Text = "In Progress";
             picbox1.Image = Resources.Screenshot_2026_11_09_160132;
             picbox1.Tag = "?";
+            picbox1.BackColor = Color.Black;
             picbox2.Image = Resources.Screenshot_2026_11_09_160132;
             picbox2.Tag = "?";
+            picbox2.BackColor = Color.Black;
             picbox3.Image = Resources.Screenshot_2026_11_09_160132;
             picbox3.Tag = "?";
+            picbox3.BackColor = Color.Black;
             picbox4.Image = Resources.Screenshot_2026_11_09_160132;
             picbox4.Tag = "?";
+            picbox4.BackColor = Color.Black;
             picbox5.Image = Resources.Screenshot_2026_11_09_160132;
             picbox5.Tag = "?";
+            picbox5.BackColor = Color.Black;
             picbox6.Image = Resources.Screenshot_2026_11_09_160132;
             picbox6.Tag = "?";
+            picbox6.BackColor = Color.Black;
             picbox7.Image = Resources.Screenshot_2026_11_09_160132;
             picbox7.Tag = "?";
+            picbox7.BackColor = Color.Black;
             picbox8.Image = Resources.Screenshot_2026_11_09_160132;
             picbox8.Tag = "?";
+            picbox8.BackColor = Color.Black;
             picbox9.Image = Resources.Screenshot_2026_11_09_160132;
             picbox9.Tag = "?";
+            picbox9.BackColor = Color.Black;
+
         }
 
     }
